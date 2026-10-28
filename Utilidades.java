@@ -1,4 +1,4 @@
-import java.net.Socket;
+//import java.net.Socket;
 import java.util.Scanner;
 public class Utilidades {
     Validaciones v = new Validaciones();
