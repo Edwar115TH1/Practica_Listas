@@ -9,27 +9,27 @@ public class Menu {
 
         while (seguir) {
             switch (u.Menu(sc)) {
-                    case 1:
-                    
-                    break;
+                    case 1: 
+                        System.out.println("Pagina en construccion");
+                        break;
                     case 2:
-                    
-                    break;
+                        System.out.println("Pagina en construccion");
+                        break;
                     case 3:
-                    
-                    break;
+                        System.out.println("Pagina en construccion");
+                        break;
                     case 4:
-                    
-                    break;
+                        System.out.println("Pagina en construccion");
+                        break;
                     case 5:
-                    
-                    break;
+                        System.out.println("Pagina en construccion");
+                        break;
                     case 6:
-                    
-                    break;
+                        System.out.println("Pagina en construccion");
+                        break;
                     case 7:
-                    
-                    break;
+                        System.out.println("Pagina en construccion");
+                        break;
             
                 default:
                     System.out.println("Esta opción no esta disponible, por favor valide.");
